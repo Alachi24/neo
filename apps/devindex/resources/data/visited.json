@@ -27681,6 +27681,7 @@
   "repo:lucidrains/deep-daze",
   "repo:lucidrains/denoising-diffusion-pytorch",
   "repo:lucidrains/gigagan-pytorch",
+  "repo:lucidrains/imagen-pytorch",
   "repo:lucidrains/lion-pytorch",
   "repo:lucidrains/magvit2-pytorch",
   "repo:lucidrains/native-sparse-attention-pytorch",
