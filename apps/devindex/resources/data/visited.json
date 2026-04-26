@@ -34674,6 +34674,7 @@
   "repo:pytorch/TensorRT",
   "repo:pytorch/ao",
   "repo:pytorch/audio",
+  "repo:pytorch/benchmark",
   "repo:pytorch/executorch",
   "repo:pytorch/helion",
   "repo:pytorch/hub",
