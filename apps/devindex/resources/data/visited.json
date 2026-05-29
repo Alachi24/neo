@@ -45424,6 +45424,7 @@
   "repo:vim-autoformat/vim-autoformat",
   "repo:vim-awesome/vim-awesome",
   "repo:vim-php/phptags",
+  "repo:vim-polyglot/vim-polyglot",
   "repo:vim-syntastic/syntastic",
   "repo:vim-test/vim-test",
   "repo:vim/vim",
