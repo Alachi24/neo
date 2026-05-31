@@ -22761,6 +22761,7 @@
   "repo:genuinetools/binctr",
   "repo:genuinetools/img",
   "repo:genuinetools/reg",
+  "repo:geo-tp/ESP32-Bit-Pirate",
   "repo:geo-tp/ESP32-Bus-Pirate",
   "repo:geocoder-php/Geocoder",
   "repo:geocompx/geocompr",
