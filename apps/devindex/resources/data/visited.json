@@ -34314,6 +34314,7 @@
   "repo:mozilla/DeepSpeech",
   "repo:mozilla/TTS",
   "repo:mozilla/bleach",
+  "repo:mozilla/cargo-vet",
   "repo:mozilla/cbindgen",
   "repo:mozilla/dogear",
   "repo:mozilla/fx-private-relay",
