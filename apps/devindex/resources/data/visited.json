@@ -7094,6 +7094,7 @@
   "repo:NVIDIA/OpenShell",
   "repo:NVIDIA/RULER",
   "repo:NVIDIA/SOL-ExecBench",
+  "repo:NVIDIA/SkillSpector",
   "repo:NVIDIA/Stable-Diffusion-WebUI-TensorRT",
   "repo:NVIDIA/TensorRT",
   "repo:NVIDIA/TensorRT-LLM",
